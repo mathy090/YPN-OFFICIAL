@@ -9,3 +9,4 @@ node_modules/
 *.ico
 dist/
 build/
+mern-chat-app/backend/build/
